@@ -1,6 +1,6 @@
 let numeroSecreto = numeroAleatorio();
 console.log(numeroSecreto);
-let tentativas = 0;
+let tentativas = 1;
 let listaNumeros = [];
 
 function mensagemInicial () {
